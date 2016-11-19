@@ -1,4 +1,4 @@
-# luarabbit
+# Luarabbit
 
 Luarabbit is a small Lua extension library including the *Rabbit* stream cipher. 
 
