@@ -31,7 +31,7 @@ luarabbit is distributed under the terms of the MIT License.
 The luarabbit library includes the rabbit implementation by Cryptico A/S 
 (public domain, since 2008)
 
-Copyright (c) 2016  Phil Leblanc 
+Copyright (c) 2020  Phil Leblanc 
 
 
 	

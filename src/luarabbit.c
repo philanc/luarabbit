@@ -1,4 +1,4 @@
-// Copyright (c) 2016  Phil Leblanc  -- see LICENSE file
+// Copyright (c) 2020  Phil Leblanc  -- see LICENSE file
 // ---------------------------------------------------------------------
 
 /*
